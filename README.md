@@ -86,7 +86,7 @@ This project uses **11 MPU9250 sensors** placed at critical body joints to monit
 
 ---
 
-## 🔧 Next Steps
+## 🔧 Future Steps
 
 - ➕ **Add One More Sensor** (12 total) to improve posture detection accuracy  
 - 🔄 **Update Code & Hardware Design** to support new sensor  
@@ -104,11 +104,4 @@ This project uses **11 MPU9250 sensors** placed at critical body joints to monit
 | Satyam Mishra  | Hardware Integration, Testing | mishrasatyam0602@gmail.com     | [Satyam-Mishra0602](https://github.com/Satyam-Mishra0602) |
 | Ram Prakash    | Firmware Development          | ramprakash130802@gmail.com     | -                    |
 
----
-
-## 📚 References
-
-- Dobrea, D.-M., & Dobrea, M.-C. (2018). *A wearable system for poor posture detection*. IEEE  
-- Nistane, S., et al. (2021). *IoT-based posture rectification using biofeedback*. IEEE  
-- Severin, I.-C. (2020). *Head posture analysis with inertial sensors and ML*. IEEE  
 
