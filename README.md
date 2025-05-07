@@ -106,20 +106,9 @@ This project uses **11 MPU9250 sensors** placed at critical body joints to monit
 
 ---
 
-## 🙏 Acknowledgements
-
-- Special thanks to **Dr. Tanuja S. Dhope** for her guidance  
-- Grateful to our **college for funding and supporting** this biomedical innovation  
-
----
-
 ## 📚 References
 
 - Dobrea, D.-M., & Dobrea, M.-C. (2018). *A wearable system for poor posture detection*. IEEE  
 - Nistane, S., et al. (2021). *IoT-based posture rectification using biofeedback*. IEEE  
 - Severin, I.-C. (2020). *Head posture analysis with inertial sensors and ML*. IEEE  
-
----
-
-> For more details, see the full [project report](#) or contact us directly.
 
