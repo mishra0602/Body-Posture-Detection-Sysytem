@@ -1,4 +1,4 @@
-# 🏥 Body Posture Detection System -- B.Tech Final Year Porject
+#  Body Posture Detection System -- B.Tech Final Year Porject
 
 A **biomedical engineering project** focused on real-time body posture analysis using IMU sensors. This system is designed for applications in **healthcare diagnostics**, **physical rehabilitation**, **office ergonomics**, and **sports performance**.
 
